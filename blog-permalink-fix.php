@@ -3,7 +3,7 @@
  * Plugin Name: Blog Permalink Fix
  * Plugin URI:  https://github.com/lifexmarketing/wpblogpermafix
  * Description: Prevents custom post types from inheriting the /blog/ permalink front. Only built-in posts use /blog/%postname%/.
- * Version:     1.0.1
+ * Version:     1.0.2
  * Author:      LifeX Marketing
  * License:     GPL-2.0-or-later
  */
