@@ -1,0 +1,11 @@
+{
+    "name": "lifexmarketing/wpblogpermafix",
+    "description": "Prevents custom post types from inheriting the /blog/ permalink front",
+    "type": "wordpress-plugin",
+    "require": {
+        "yahnis-elsts/plugin-update-checker": "^5.3"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
